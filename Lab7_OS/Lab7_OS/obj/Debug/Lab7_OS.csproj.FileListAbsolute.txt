@@ -1,0 +1,9 @@
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\bin\Debug\Lab7_OS.exe
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\bin\Debug\Lab7_OS.pdb
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\obj\Debug\Lab7_OS.csproj.AssemblyReference.cache
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\obj\Debug\Lab7_OS.Properties.Resources.resources
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\obj\Debug\Lab7_OS.csproj.GenerateResource.cache
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\obj\Debug\Lab7_OS.csproj.CoreCompileInputs.cache
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\obj\Debug\Lab7_OS.exe
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\obj\Debug\Lab7_OS.pdb
+D:\ОС_3 курс\Lab7_OS\Lab7_OS\obj\Debug\Lab7_OS.View.Form1.resources
